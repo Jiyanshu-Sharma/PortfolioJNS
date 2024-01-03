@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/PortfolioJNS/static/css/main.891ebb4c.css",
-    "main.js": "/PortfolioJNS/static/js/main.ae78b30c.js",
-    "static/js/787.28cb0dcd.chunk.js": "/PortfolioJNS/static/js/787.28cb0dcd.chunk.js",
+    "main.css": "/PortfolioJNS/static/css/main.11952e78.css",
+    "main.js": "/PortfolioJNS/static/js/main.11cf0490.js",
+    "static/media/Avatar.png": "/PortfolioJNS/static/media/Avatar.36b5dbac827d83cb6a18.png",
+    "static/media/bharatIntern.png": "/PortfolioJNS/static/media/bharatIntern.1153f7b133cc8fc3f46d.png",
     "index.html": "/PortfolioJNS/index.html",
-    "main.891ebb4c.css.map": "/PortfolioJNS/static/css/main.891ebb4c.css.map",
-    "main.ae78b30c.js.map": "/PortfolioJNS/static/js/main.ae78b30c.js.map",
-    "787.28cb0dcd.chunk.js.map": "/PortfolioJNS/static/js/787.28cb0dcd.chunk.js.map"
+    "static/media/Avatar Background.svg": "/PortfolioJNS/static/media/Avatar Background.ca952a5a1b7b7dcdf82b.svg",
+    "main.11952e78.css.map": "/PortfolioJNS/static/css/main.11952e78.css.map",
+    "main.11cf0490.js.map": "/PortfolioJNS/static/js/main.11cf0490.js.map"
   },
   "entrypoints": [
-    "static/css/main.891ebb4c.css",
-    "static/js/main.ae78b30c.js"
+    "static/css/main.11952e78.css",
+    "static/js/main.11cf0490.js"
   ]
 }
