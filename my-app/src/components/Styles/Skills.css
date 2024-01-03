@@ -1,0 +1,19 @@
+.Skills-heading{
+    color: #FF8660;
+    font-size: 35px;
+    font-family: Poppins;
+    font-weight: 800;
+    text-transform: uppercase;
+    line-height: 35.75px;
+    word-wrap: break-word;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 10px;
+}
+.Skills-description { 
+    display:flex;
+    justify-content: center;
+    flex-wrap: wrap;
+
+}
+

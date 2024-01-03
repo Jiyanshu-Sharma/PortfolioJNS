@@ -1,0 +1,30 @@
+.Blog-heading{
+    color: #ff8660;
+    font-size: 35px;
+    font-family: Poppins;
+    font-weight: 800;
+    text-transform: uppercase;
+    line-height: 35.75px;
+    word-wrap: break-word;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 10px;
+}
+.Blog-description{
+    height: 300px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 30px;
+    padding: 20px;
+    overflow: hidden;
+}
+.Card {
+    transition: transform 1.5s ease;
+}
+.Blog-description button{
+    height: 40px;
+    font-size: 20px;
+}
+
+  

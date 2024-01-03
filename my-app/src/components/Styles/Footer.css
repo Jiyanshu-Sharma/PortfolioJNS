@@ -1,0 +1,49 @@
+.Footer{
+    background-color: rgb(30,30,29);
+    border: 2px solid black;
+    height:250px;
+}
+.Footer-content{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    list-style: none;
+}
+.Footer-des{
+    border: 2px solid white;
+    border-radius: 10px;
+}
+.Footer-des li{
+    padding: 10px;
+}
+.Footer-collab { 
+    font-size: 30px;
+}
+.Footer-input{
+    font-size: 25px;
+}
+.Footer-btn { 
+    background-color: green;
+    color: white;
+    font-size: 25px;
+    margin: 5px;
+    border: 2px solid white;
+}
+
+
+.Footer-list , .Footer-nav{
+    list-style: none;
+    font-size: 20px;
+    text-align: center;
+    cursor: pointer;
+}
+.Footer-list li{
+    padding: 5px;
+    
+}
+.Footer-nav li{
+    padding: 5px;
+}
+.Footer-list a{
+    color: white;
+}

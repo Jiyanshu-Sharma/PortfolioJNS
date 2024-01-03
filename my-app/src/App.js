@@ -1,25 +1,30 @@
 import React from 'react'
-import {BrowserRouter , Routes , Route } from 'react-router-dom';
 import Nav from './components/Nav';
+import './App.css'
 import Home from './components/Home';
-import About from './components/About';
-import Skills from './components/Skills';
+import Skills from './components/Skills.js';
+import Projects from './components/Projects.js'
+import Experience from './components/Experience.js';
+import Blogs from './components/Blogs.js';
 import Contact from './components/Contact';
+import Footer from './components/Footer.js'
+
+/*
+
+
+import {BrowserRouter , Routes , Route } from 'react-router-dom';*/
 
 function App() {
   return (
     <>
-    <Nav />
-     {/* <BrowserRouter>
-          <Routes>
-            <Route path="/" element={<Home />}></Route>element
-            <Route path="/about"  element={()=> <About />} />
-            <Route path="/skills"  element={()=> <Skills />} />
-            <Route path="/contact"  element={()=> <Contact />} />
-          </Routes>
-      </BrowserRouter>*/ }
-      
-     
+      <Nav />
+      <Home />
+      <Skills />  
+      <Experience />
+      <Projects />
+      <Blogs />
+      <Contact />
+      <Footer />
     </>
   )
 }
